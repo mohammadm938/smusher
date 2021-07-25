@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "KalamehWeb";
+  src: url(../fonts/KalamehWeb/woff/KalamehWeb_Bold.woff);
+  font-weight: 400;
+}
+@font-face {
+  font-family: "KalamehWeb";
+  src: url(../fonts/KalamehWeb/woff/KalamehWeb_Black.woff);
+  font-weight: 700;
+}
+@font-face {
+  font-family: "smusher";
+  src: url(../fonts/smusher/smusher69fb.eot?fc7o97);
+  src: url(../fonts/smusher/smusher69fb.eot?fc7o97#iefix)
+      format("embedded-opentype"),
+    url(../fonts/smusher/smusher69fb.ttf?fc7o97) format("truetype"),
+    url(../fonts/smusher/smusher69fb.woff?fc7o97) format("woff"),
+    url(../fonts/smusher/smusher69fb.svg?fc7o97#smusher) format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
